@@ -1,5 +1,6 @@
 # Assignment 2 - Recursion to solve a maze
-## Due
+
+## Due 02-05-2020
 
 ## Author
 
